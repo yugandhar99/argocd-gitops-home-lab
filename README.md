@@ -1,4 +1,4 @@
-# ArgoCD GitOps Home Lab
+# ArgoCD GitOps Home La b
 
 > **Stage 8 of 12 — Career Progression Project**  
 > Portfolio project by **Yugandhar Ethamukkala**.
