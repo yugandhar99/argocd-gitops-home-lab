@@ -6,7 +6,7 @@ metadata:
 spec:
   type: ClusterIP
   selector:
-    app: hello-gitops
+    app: hello-git ops
   ports:
     - name: http
       port: 80
