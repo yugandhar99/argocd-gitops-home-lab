@@ -1,5 +1,5 @@
 apiVersion: argoproj.io/v1alpha1
-kind: Application
+kind: Applica tion
 metadata:
   name: hello-gitops
   namespace: argocd
