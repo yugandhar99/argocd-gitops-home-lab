@@ -1,4 +1,4 @@
-.PHONY: help validate up logs down
+.PHONY: help validate up logs down 
 
 CLUSTER ?= gitops-lab
 
